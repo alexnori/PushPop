@@ -1,0 +1,159 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#game{
+    width: 600px;
+    height: 600px;
+    border: 1px solid black;
+}
+#block_1{
+    width: 120px;
+    height: 120px;
+    background-color: red;
+    float: left;
+}
+#block_2{
+    width: 120px;
+    height: 120px;
+    background-color: orange;
+    float: left;
+}
+#block_3{
+    width: 120px;
+    height: 120px;
+    background-color: yellow;
+    float: left;
+}
+#block_4{
+    width: 120px;
+    height: 120px;
+    background-color: green;
+    float: left;
+}
+#block_5{
+    width: 120px;
+    height: 120px;
+    background-color:greenyellow;
+    float: left;
+}
+#block_6{
+    width: 120px;
+    height: 120px;
+    background-color:blue;
+    float: left;
+}
+#block_7{
+    width: 120px;
+    height: 120px;
+    background-color: blueviolet;
+    float: left;
+}
+#block_8{
+    width: 120px;
+    height: 120px;
+    background-color: burlywood;
+    float: left;
+}
+#block_9{
+    width: 120px;
+    height: 120px;
+    background-color: purple;
+    float: left;
+}
+#block_10{
+    width: 120px;
+    height: 120px;
+    background-color: powderblue;
+    float: left;
+}
+#block_11{
+    width: 120px;
+    height: 120px;
+    background-color: plum;
+    float: left;
+}
+#block_12{
+    width: 120px;
+    height: 120px;
+    background-color: pink;
+    float: left;
+}
+#block_13{
+    width: 120px;
+    height: 120px;
+    background-color: peru;
+    float: left;
+}
+#block_14{
+    width: 120px;
+    height: 120px;
+    background-color: peachpuff;
+    float: left;
+}
+#block_15{
+    width: 120px;
+    height: 120px;
+    background-color: aliceblue;
+    float: left;
+}
+#block_16{
+    width: 120px;
+    height: 120px;
+    background-color: blanchedalmond;
+    float: left;
+}
+#block_17{
+    width: 120px;
+    height: 120px;
+    background-color: cadetblue;
+    float: left;
+}
+#block_18{
+    width: 120px;
+    height: 120px;
+    background-color: darkblue;
+    float: left;
+}
+#block_19{
+    width: 120px;
+    height: 120px;
+    background-color: firebrick;
+    float: left;
+}
+#block_20{
+    width: 120px;
+    height: 120px;
+    background-color: gainsboro;
+    float: left;
+}
+#block_21{
+    width: 120px;
+    height: 120px;
+    background-color: honeydew;
+    float: left;
+}
+#block_22{
+    width: 120px;
+    height: 120px;
+    background-color: indianred;
+    float: left;
+}
+#block_23{
+    width: 120px;
+    height: 120px;
+    background-color: khaki;
+    float: left;
+}
+#block_24{
+    width: 120px;
+    height: 120px;
+    background-color: navajowhite;
+    float: left;
+}
+#block_25{
+    width: 120px;
+    height: 120px;
+    background-color: magenta;
+    float: left;
+}
